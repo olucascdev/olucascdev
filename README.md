@@ -26,9 +26,6 @@ I enjoy solving problems through code, learning new technologies, and turning id
 **Currently Learning**  
 
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=olucascdev&show_icons=true&theme=tokyonight" alt="GitHub stats" height="180px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=olucascdev&layout=compact&theme=tokyonight" alt="Top languages" height="180px"/>
